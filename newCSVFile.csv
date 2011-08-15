@@ -1,0 +1,225 @@
+CountryName, CountryCode, Capital, Longitude, Latitude
+Afghanistan, AF, Kabul, 69.184841, 34.526831
+Albania, AL, Tirana, 19.820115, 41.321930
+Algeria, DZ, Algiers, -90.046384, 29.944885
+American Samoa, AS, Pago Pago, -170.695610, -14.276200
+Andorra, AD, Andorra la Vella, 1.525715, 42.505100
+Angola, AO, Luanda, 13.235030, -8.812410
+Anguilla, AI, The Valley, -4.561674, 53.283480
+Antarctica, AQ, No Capital!, N/A, N/A
+Antigua and Barbuda, AG, Saint John's, -87.469019, 41.449955
+Argentina, AR, Buenos Aires, -58.373544, -34.608524
+Armenia, AM, Yerevan, 44.506777, 40.157011
+Aruba, AW, Oranjestad, -70.019718, 12.524390
+Australia, AU, Canberra, 149.118790, -35.302425
+Austria, AT, Vienna, -83.795200, 32.091296
+Azerbaijan, AZ, Baku, 49.910891, 40.395554
+Bahamas, BS, Nassau, -96.443884, 45.066150
+Bahrain, BH, Manama, 50.580664, 26.214305
+Bangladesh, BD, Dhaka, 90.407112, 23.709800
+Barbados, BB, Bridgetown, -84.629159, 39.157710
+Belarus, BY, Minsk, 27.563100, 53.902555
+Belgium, BE, Brussels, 4.356245, 50.847275
+Belize, BZ, Belmopan, -88.346478, 17.192925
+Benin, BJ, Porto-Novo, 2.632500, 6.478350
+Bermuda, BM, Hamilton, -87.988967, 34.142424
+Bhutan, BT, Thimphu, 89.662998, 27.466000
+Bolivia, BO, La Paz, -3.617180, 40.455383
+Bosnia and Herzegovina, BA, Sarajevo, 18.439358, 43.859188
+Botswana, BW, Gaborone, 25.923765, -24.639565
+Bouvet Island, BV, No Capital!, N/A, N/A
+Brazil, BR, Brasilia, -47.859479, -15.688884
+British Indian Ocean Territory, IO, No Capital!, N/A, N/A
+Brunei Darussalam, BN, Bandar Seri Begawan, 114.931385, 4.891150
+Bulgaria, BG, Sofia, 23.324550, 42.697085
+Burkina Faso, BF, Ouagadougou, -1.533495, 12.361905
+Burundi, BI, Bujumbura, 29.363915, -3.360550
+Cambodia, KH, Phnom Penh, 104.983868, 11.984825
+Cameroon, CM, Yaounde, 11.515475, 3.872005
+Canada, CA, Ottawa, -76.049159, 45.355400
+Cape Verde, CV, Praia, -24.012470, 15.999690
+Cayman Islands, KY, George Town, -85.690910, 37.822445
+Central Africa Republic, CF, Bangui, 18.562100, 4.372350
+Chad, TD, N'Djamena, 18.738765, 15.460304
+Chile, CL, Santiago, -104.356796, 19.115101
+China, CN, Beijing, 116.340031, 39.958956
+Christmas Island, CX, The Settlement, 105.629269, -10.495815
+Cocos Island, CC, West Island, -87.265582, 37.433597
+Colombia, CO, Bogota, -91.379181, 33.630787
+Comoros, KM, Moroni, -111.582864, 39.524920
+Congo, CG, Brazzaville, 14.927415, -0.662615
+"Congo, Democratic Republic", CD, Kinshasa, 15.291760, -4.332210
+Cook Islands, CK, Avarua, -159.766701, -21.200000
+Costa Rica, CR, San Jose, -121.824019, 37.302066
+Cote d'lvoire, CI, Yamoussoukro, -5.547095, 7.546850
+Croatia, HR, Zagreb, 15.967600, 45.807260
+Cuba, CU, Havana, -82.378826, 23.098425
+Cyprus, CY, Nicosia, 33.348085, 35.163889
+Czech Republic, CZ, Prague, 14.433230, 50.079083
+Denmark, DK, Copenhagen, 12.569355, 55.676310
+Djibouti, DJ, Djibouti, 42.611950, 11.808370
+Dominica, DM, Roseau, -95.768359, 48.844420
+East Timor, TL, Dili, 125.581863, -8.568100
+Ecuador, EC, Quito, -78.524277, -0.229500
+Egypt, EG, Cairo, 31.248605, 30.049950
+El Salvador, SV, San Salvador, -122.319749, 38.341125
+Equatorial Guinea, GQ, Malabo, 8.781980, 3.752290
+Eritrea, ER, Asmara, 10.590540, 44.825142
+Estonia, EE, Tallinn, 24.752600, 59.436475
+Ethiopia, ET, Addis Ababa, 38.752556, 9.017055
+Falkland Islands, FK, Stanley, -59.573259, -51.933401
+Faroe Islands, FO, Torshavn, -6.969925, 61.897837
+Fiji, FJ, Suva, -1.668480, -16.741670
+Finland, FI, Helsinki, 24.883724, 60.235705
+France, FR, Paris, 2.341200, 48.856930
+French Polynesia, PF, Papeete, -144.585495, -14.686225
+French Southern Territories, TF, No Capital!, N/A, N/A
+Gabon, GA, Libreville, -83.222950, 32.678275
+Gambia, GM, Banjul, -16.589100, 13.450510
+Georgia, GE, T'bilisi, 43.365789, 42.311525
+Germany, DE, Berlin, 13.389855, 52.498890
+Ghana, GH, Accra, -0.206105, 5.561775
+Gibraltar, GI, Gibraltar, -5.348285, 36.132074
+Greece, GR, Athens, -82.042431, 39.213754
+Greenland, GL, Nuuk, -42.287897, 71.702345
+Grenada, GD, Saint George's, -95.998394, 43.345265
+Guam, GU, Hagatna, 144.786629, 13.446455
+Guatemala, GT, Guatemala City, -90.517094, 14.622270
+Guinea, GN, Conakry, -13.681605, 9.545380
+Guinea-Bissau, GW, Bissau, -15.598210, 11.863980
+Guyana, GY, Georgetown, -91.454749, 35.127340
+Haiti, HT, Port-au-Prince, -72.335327, 18.547170
+Heard and McDonald Islands, HM, No Capital!, N/A, N/A
+Honduras, HN, Tegucigalpa, -87.211971, 14.095060
+Hong Kong, HK, No Capital!, N/A, N/A
+Hungary, HU, Budapest, 19.064820, 47.506225
+Iceland, IS, Reykjavik, -21.933989, 64.147415
+India, IN, New Delhi, 81.334630, 24.733800
+Indonesia, ID, Jakarta, 106.820396, -6.237445
+Iraq, IQ, Baghdad, 44.397806, 33.322899
+Ireland, IE, Dublin, -6.248274, 53.348070
+Israel, IL, Jerusalem, 35.208487, 31.788345
+Italy, IT, Rome, 12.545980, 41.893325
+Jamaica, JM, Kingston, -93.518459, 36.050435
+Japan, JP, Tokyo, 139.740921, 35.670469
+Jordan, JO, Amman, 35.940450, 31.951775
+Kazakhstan, KZ, Astana, 71.438187, 51.187910
+Kenya, KE, Nairobi, 36.806261, -1.277298
+Kiribati, KI, Tarawa, -77.363819, 34.739479
+Kuwait, KW, Kuwait City, 47.670675, 29.310150
+Kyrgyzstan, KG, Bishkek, 74.587891, 42.870020
+Lao People's Democratic Republic, LA, Vientiane, 102.591885, 17.960225
+Latvia, LV, Riga, 24.107825, 56.918686
+Lebanon, LB, Beirut, 35.521036, 33.881756
+Lesotho, LS, Maseru, 28.247416, -29.620505
+Liberia, LR, Monrovia, -117.998779, 34.147555
+Libya, LY, Tripoli, -92.258124, 42.808140
+Liechtenstein, LI, Vaduz, 9.521640, 47.138795
+Lithuania, LT, Vilnius, 23.894390, 55.173956
+Luxembourg, LU, Luxembourg, 6.103274, 49.520515
+Macau, MO, No Capital!, N/A, N/A
+Macedonia, MK, Skopje, 21.751286, 41.602806
+Madagascar, MG, Antananarivo, 47.526627, -18.918185
+Malawi, MW, Lilongwe, 34.294716, -13.247070
+Malaysia, MY, Kuala Lumpur, 101.691170, 3.104665
+Maldives, MV, Male, -88.819858, 35.549584
+Mali, ML, Bamako, -7.953725, 12.656410
+Malta, MT, Valletta, 14.511844, 35.893555
+Marshall Islands, MH, Majuro, 167.152626, 9.615015
+Mauritania, MR, Nouakchott, -10.950860, 21.006805
+Mauritius, MU, Port Louis, -3.352477, 47.707682
+Mayotte, YT, Mamoudzou, 45.165871, -12.817140
+Mexico, MX, Mexico City, -99.125031, 19.322610
+Micronesia, FM, Palikir, 158.174591, 6.923000
+Moldova, MD, Chisinau, -77.268219, 38.817598
+Mongolia, MN, Ulaanbaatar, -93.365864, 46.442316
+Montserrat, MS, Plymouth, -88.501701, 33.523100
+Morocco, MA, Rabat, -6.849006, 34.018614
+Mozambique, MZ, Maputo, 35.530890, -18.670280
+Namibia, NA, Windhoek, 17.080200, -22.577840
+Nauru, NR, No Capital!, N/A, N/A
+Nepal, NP, Kathmandu, 85.313160, 27.702650
+Netherlands, NL, Amsterdam, 4.893195, 52.373120
+Netherlands Antilles, AN, Willemstad, 4.440185, 51.694025
+New Caledonia, NC, Noumea, -79.891090, 35.214235
+New Zealand, NZ, Wellington, -5.051697, -40.914281
+Nicaragua, NI, Managua, -82.290600, 22.975005
+Niger, NE, Niamey, 2.113180, 13.508975
+Nigeria, NG, Abuja, 7.461787, 9.063096
+Niue, NU, Alofi, -169.863091, -19.051624
+Norfolk Island, NF, Kingston, -111.993662, 38.492025
+Northern Mariana Islands, MP, Saipan, 145.724342, 15.212260
+Norway, NO, Oslo, 10.667782, 59.934022
+Oman, OM, Muscat, 58.492725, 23.599010
+Pakistan, PK, Islamabad, 73.059666, 33.714870
+Palau, PW, Melekeok, 132.946480, 5.547025
+Palestinian Territory, PS, No Capital!, N/A, N/A
+Panama, PA, Panama City, -85.506159, 30.109471
+Papua New Guinea, PG, Port Moresby, 147.177383, -9.458895
+Paraguay, PY, Asuncion, -120.676211, 35.513169
+Peru, PE, Lima, -112.590029, 44.635490
+Philippines, PH, Manila, -90.166244, 35.879795
+Pitcairn, PN, Adamstown, -70.870073, 44.965610
+Poland, PL, Warsaw, -93.333534, 38.268513
+Portugal, PT, Lisbon, -72.008610, 41.607462
+Puerto Rico, PR, San Juan, -106.069083, 36.066979
+Qatar, QA, Doha, 51.537300, 25.322880
+Romania, RO, Bucharest, 26.094265, 44.458605
+Russian Federation, RU, Moscow, -116.993184, 46.739990
+Rwanda, RW, Kigali, 30.058770, -1.950100
+Saint Kitts and Nevis, KN, Basseterre, -62.731140, 17.298670
+Saint Vincent and the Grenadines, VC, Kingstown, -61.286566, 12.979420
+Samoa, WS, Apia, -123.031726, 46.015171
+San Marino, SM, San Marino, 12.459785, 43.942734
+Sao Tome and Principe, ST, Sao Tome, 6.733300, 0.333300
+Saudi Arabia, SA, Riyadh, 50.129850, 26.353970
+Senegal, SN, Dakar, -17.480326, 14.706400
+Seychelles, SC, Victoria, -80.947403, 33.626459
+Sierra Leone, SL, Freetown, -86.134409, 38.972585
+Singapore, SG, Singapore, 104.013359, 1.293210
+Slovakia, SK, Bratislava, 17.107005, 48.149245
+Slovenia, SI, Ljubljana, 14.586196, 46.050056
+Solomon Islands, SB, Honiara, 159.924805, -9.433405
+Somalia, SO, Mogadishu, 45.340406, 2.035400
+South Africa, ZA, Pretoria, 27.967978, -25.776205
+South Korea, KR, Seoul, 127.771023, 35.859205
+Spain, ES, Madrid, -3.633974, 40.393390
+Sri Lanka, LK, Colombo, 79.863461, 6.920350
+St. Helena, SH, Jamestown, -79.229104, 42.090330
+St. Pierre and Miquelon, PM, Saint-Pierre, 55.468305, -21.342949
+Suriname, SR, Paramaribo, -55.169374, 5.822495
+Svalbard and Jan Mayen Islands, SJ, Longyearbyen, 13.867690, 75.830715
+Swaziland, SZ, Mbabane, 31.135490, -26.315845
+Sweden, SE, Stockholm, 17.982860, 59.296040
+Switzerland, CH, Bern, 7.440461, 46.948432
+Taiwan, TW, Taipei, 121.561474, 25.085755
+Tajikistan, TJ, Dushanbe, 71.262177, 38.858191
+Tanzania, TZ, Dar es Salaam, 39.274015, -6.809460
+Thailand, TH, Bangkok, 100.545937, 13.802045
+Togo, TG, Lome, -98.392678, 31.216984
+Tokelau, TK, No Capital!, N/A, N/A
+Tonga, TO, Nuku'alofa, -174.957542, -18.949485
+Trinidad and Tobago, TT, Port-of-Spain, -61.516670, 10.650000
+Tunisia, TN, Tunis, -107.763733, 32.268669
+Turkey, TR, Ankara, 32.860480, 39.942930
+Turkmenistan, TM, Ashgabat, 58.380966, 37.948198
+Turks and Caicos Islands, TC, Grand Turk, -71.782104, 21.571820
+Tuvalu, TV, Funafuti, 179.190323, -8.518330
+Uganda, UG, Kampala, 32.588100, 0.312965
+Ukraine, UA, No Capital!, N/A, N/A
+United Arab Emirates, AE, Abu Dhabi, 54.523941, 24.384556
+United Kingdom, GB, London, -0.127144, 51.506325
+United States, US," Washington, DC", -77.028999, 38.899101
+Uruguay, UY, Montevideo, -95.717499, 44.951735
+Uzbekistan, UZ, Tashkent, 69.273941, 41.293165
+Vanuatu, VU, Port-Vila, 168.379898, -16.661950
+Vatican, VA, Vatican City, 12.452490, 41.903845
+Venezuela, VE, Caracas, -96.938759, 18.888041
+Viet Nam, VN, Hanoi, 105.833916, 21.021515
+Virgin Islands (British), VG, Road Town, -64.616589, 18.442400
+Virgin Islands (U.S.), VI, Charlotte Amalie, -64.932164, 18.340510
+Wallis and Futuna Islands, WF, Mata-Utu, -177.144829, -13.780610
+Western Sahara, WF, Mata-Utu, -177.144829, -13.780610
+Yemen, YE, Sanaa, 44.206671, 15.354720
+Zambia, ZM, Lusaka, 28.282400, -15.408840
+Zimbabwe, ZW, Harare, 31.050230, -17.823350
